@@ -2,6 +2,15 @@
 
 ## Description
 
+Welcome to the E-Commerce Back-End repository! This powerful back-end solution is specifically designed for an e-commerce platform, allowing users to view, add, remove, and update products. Built using Express.js, Sequelize ORM, and MySQL database, it provides a seamless and efficient experience for managing your e-commerce store.
+
+<b>Features</b>
+
+- Product Viewing: Users can browse and search products by tags, categories, and specific product names, making it easy to find desired items.
+- Product Management: Users can add new products, update existing product information, and remove products as needed.
+- Database Persistence: The application utilizes Sequelize ORM and MySQL database, ensuring reliable and persistent storage of product data.
+- Seamless Integration: The use of Sequelize ORM simplifies database operations, making it easier to work with and manipulate product data.
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -13,7 +22,25 @@
 
 ## Installation
 
+1. [Sequelize](https://www.npmjs.com/package/sequelize)
+2. [MySQL2](https://www.npmjs.com/package/mysql2)
+3. [Dotenv](https://www.npmjs.com/package/dotenv)
+
 ## Usage
+
+- Install packages:
+  <br>
+
+  - Sequelize `npm i sequelize`
+  - MySQL2 `npm i mysql2`
+  - Dotenv `npm i dotenv`
+
+- Prepare the database:
+  <br>
+
+  - Move into MySQL Shell `mysql -u root -p`
+  - Load schema > quit
+  - Run `npm run seed`
 
 ## Demonstration
 
@@ -22,6 +49,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
+
+There was a great deal of research done to complete this project. Part of that research was reading through the documentation for Sequelize and Dotenv. I also read through materials and articles from StackOverflow, and class resources provided by the bootcamp and my student success coach, Lisa. I also received assistance from my TA instructors during office hours. In addition, I conferred with my classmates and colleagues.
 
 ## Contact
 
