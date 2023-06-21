@@ -72,6 +72,7 @@ router.delete('/:id', async (req, res) => {
       where: {
         id: req.params.id,
       },
+      include: [{ model: Product }],
     });
     if (!category) {
       res.status(404).json({ message: 'Category not found' });
