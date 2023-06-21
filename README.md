@@ -7,9 +7,9 @@ Welcome to the E-Commerce Back-End repository! This powerful back-end solution i
 <b>Features</b>
 
 - Product Viewing: Users can browse and search products by tags, categories, and specific product names, making it easy to find desired items.
-- Product Management: Users can add new products, update existing product information, and remove products as needed.
-- Database Persistence: The application utilizes Sequelize ORM and MySQL database, ensuring reliable and persistent storage of product data.
-- Seamless Integration: The use of Sequelize ORM simplifies database operations, making it easier to work with and manipulate product data.
+- Product Management: Users can add new products, update existing information, and remove products as needed.
+- Database Persistence: The application utilizes Sequelize ORM and MySQL database, ensuring reliable and persistent product data storage.
+- Seamless Integration: Sequelize ORM simplifies database operations, making it easier to work with and manipulate product data.
 
 ## Table of Contents
 
@@ -43,6 +43,8 @@ Welcome to the E-Commerce Back-End repository! This powerful back-end solution i
   - Run `npm run seed`
 
 ## Demonstration
+[E-Commerce: Back-End Demo](https://github.com/HarrisSte/E-Commerce-Back-End/assets/126029841/432ef04f-0736-4dda-9d3f-3afc5dd234f6)
+
 
 ## License
 
@@ -50,7 +52,7 @@ Welcome to the E-Commerce Back-End repository! This powerful back-end solution i
 
 ## Contributors
 
-There was a great deal of research done to complete this project. Part of that research was reading through the documentation for Sequelize and Dotenv. I also read through materials and articles from StackOverflow, and class resources provided by the bootcamp and my student success coach, Lisa. I also received assistance from my TA instructors during office hours. In addition, I conferred with my classmates and colleagues.
+There was a great deal of research done to complete this project. Part of that research was reading through the documentation for Sequelize and Dotenv. I also read through materials and articles from StackOverflow, and class resources provided by the boot camp and my student success coach, Lisa. I also received assistance from my TA instructors during office hours. In addition, I conferred with my classmates and colleagues.
 
 ## Contact
 
