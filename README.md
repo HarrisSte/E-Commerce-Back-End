@@ -43,7 +43,7 @@ Welcome to the E-Commerce Back-End repository! This powerful back-end solution i
   - Run `npm run seed`
 
 ## Demonstration
-[E-Commerce: Back-End Demo](https://github.com/HarrisSte/E-Commerce-Back-End/assets/126029841/432ef04f-0736-4dda-9d3f-3afc5dd234f6)
+[E-Commerce_ Back-End Demo.webm](https://github.com/HarrisSte/E-Commerce-Back-End/assets/126029841/7c0e753e-884c-4c54-8410-e441219de84b)
 
 
 ## License
